@@ -13,3 +13,6 @@ The point of this mini project was to see the chance of surviving the titanic di
 
 4. CHIS.R project:
 The purpose of this tutorial was to learn build on the plotting functions in order to produce a mosaic plot (Merimeko plot). This type of plot is a visual representation of a continency table, which compares two categorical variables. The question is, which groups are over or under represented in the 2009 CHIS adult-repsponse dataset? This is visualized with groups colored according to their pearson residuals from a chi-squared test.
+
+5. Capstone Project:
+This is the main project of the course, in which I have chosen to write a program to recommend anime based on how other users rated them. All important files will be found in there, currently including the data wrangling part of the project.
